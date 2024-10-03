@@ -16,9 +16,10 @@ Non-programmatic projects for data analysis from various sources such as XLS fil
       * States like California, New York, and Texas lead in total price value contributions.
       * The Information Technology, Consumer Discretionary, and Financial sectors exhibit the highest price accumulations.
       * The interactive dashboard allows users to filter data by specific years and sectors, making it easier to identify trends over time.
-# _____________________________________________________________________________________________________________________________________________________________
-# _____________________________________________________________________________________________________________________________________________________________
-# p2: Data Transformation and Visualization Using Alteryx, SSIS, and Power BI
+# _________________________________________________________________________________________________________________________________________________________
+# _________________________________________________________________________________________________________________________________________________________
+# p2: 
+  Data Transformation and Visualization Using Alteryx, SSIS, and Power BI
 
   # Overview:
        This project focused on analyzing and transforming a dataset related to schools, followed by visualizing the results using Power BI. The dataset included          key information such as school names, enrollment numbers, and full-time teachers. The goal was to apply data transformation techniques using two distinct          tools—Alteryx for the first half and SSIS (SQL Server Integration Services) for the second half—before loading the transformed data into SQL Server                destinations. Finally, a star schema was designed, and visualizations were generated using Power BI to derive insights from the transformed data.
@@ -54,8 +55,8 @@ Non-programmatic projects for data analysis from various sources such as XLS fil
       * Schools like Logos Preparatory and Whitby have significantly higher student enrollments.
       * Full-time teachers are more concentrated in specific schools, such as Whitby and Eagle Hill.
       * There are disparities between enrollment numbers and full-time teacher counts, suggesting varying student-teacher ratios across institutions.
-# _____________________________________________________________________________________________________________________________________________________________
-# _____________________________________________________________________________________________________________________________________________________________
+# _________________________________________________________________________________________________________________________________________________________
+# _________________________________________________________________________________________________________________________________________________________
 # P3:
   # Overview: 
       This project plan outlines the comprehensive schedule, task breakdown, and resource allocation necessary for the successful creation of a website. It              involves clearly defined milestones, task assignments, and deadlines for each team member involved in the project. The goal is to ensure a streamlined             workflow, optimal resource usage, and timely delivery of each development phase.
