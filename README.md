@@ -1,7 +1,6 @@
 # data-projects
 Non-programmatic projects for data analysis from various sources such as XLS files, CSV, or SQL using advanced tools like Power BI, MS Project, Alteryx, and SSIS.
-![P1](P1.png)
-# p1:
+# p1: ![P1](P1.png)
   # Overview
       This project leverages Power BI to analyze financial and geographic data for companies based in the United States. The analysis focuses on price distribution        across different states, sectors (based on GICS - Global Industry Classification Standard), and headquarters locations of various companies.
 
@@ -19,8 +18,7 @@ Non-programmatic projects for data analysis from various sources such as XLS fil
       * The interactive dashboard allows users to filter data by specific years and sectors, making it easier to identify trends over time.
 # _________________________________________________________________________________________________________________________________________________________
 # _________________________________________________________________________________________________________________________________________________________
-![P2](P2.png)
-# p2: 
+# p2: ![P2](P2.png)
   Data Transformation and Visualization Using Alteryx, SSIS, and Power BI
 
   # Overview:
@@ -59,8 +57,7 @@ Non-programmatic projects for data analysis from various sources such as XLS fil
       * There are disparities between enrollment numbers and full-time teacher counts, suggesting varying student-teacher ratios across institutions.
 # _________________________________________________________________________________________________________________________________________________________
 # _________________________________________________________________________________________________________________________________________________________
-![P3](P3.png)
-# P3:
+# P3:![P3](P3.png)
   # Overview: 
       This project plan outlines the comprehensive schedule, task breakdown, and resource allocation necessary for the successful creation of a website. It              involves clearly defined milestones, task assignments, and deadlines for each team member involved in the project. The goal is to ensure a streamlined             workflow, optimal resource usage, and timely delivery of each development phase.
 
